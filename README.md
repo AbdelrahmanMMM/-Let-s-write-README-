@@ -192,3 +192,25 @@ LOCATION '/user/hive/warehouse/bike_dw.db/sales_kpi';
 
 Abdelrahman Malek
 Aspiring Data Engineer / BI Developer
+
+## 👨‍💻 SceenShots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9d4846f1-b44d-48eb-8d5d-61bb801a0c52" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e4fc12d7-c190-4613-828e-fd128ed8290c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9abba80b-263f-4a02-8331-a771a44f3b62" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f08d60da-0c46-4ea5-b14f-c81d4e93c0e4" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/70e56109-5afa-4713-9fe3-c232aab11407" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c9f9283e-5a5f-44eb-8b4a-c13740c2f943" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a38e73fe-2b5a-4d87-a504-a146aed4b37d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c07aab21-c1ae-46fd-a01c-4ef90f3d8316" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/476d1d43-8ed3-4403-9339-f7f9e945ca12" />
+
+
+
+
+
+
+
+
+
+
+
